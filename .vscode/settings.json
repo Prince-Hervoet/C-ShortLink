@@ -41,6 +41,18 @@
     "typeinfo": "cpp",
     "chrono": "cpp",
     "ctime": "cpp",
-    "ratio": "cpp"
+    "ratio": "cpp",
+    "bitset": "cpp",
+    "condition_variable": "cpp",
+    "cstring": "cpp",
+    "unordered_set": "cpp",
+    "functional": "cpp",
+    "iterator": "cpp",
+    "map": "cpp",
+    "numeric": "cpp",
+    "random": "cpp",
+    "regex": "cpp",
+    "mutex": "cpp",
+    "thread": "cpp"
   }
 }
